@@ -1,6 +1,7 @@
-
-*~
+# A silly MacOS/OS-X hidden file that is the bane of all repos.
 .DS_Store
+
+# .idea is the user setting configuration directory for IntelliJ, or more generally Jetbrains IDE Products.
+# .terraform is the directory that Terraform uses to download provider plugins needed for the particular configuration setup.
 .idea
 .terraform
-run.sh
