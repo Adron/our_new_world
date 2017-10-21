@@ -1,0 +1,6 @@
+
+*~
+.DS_Store
+.idea
+.terraform
+run.sh
