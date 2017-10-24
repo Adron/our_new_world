@@ -5,3 +5,7 @@
 # .terraform is the directory that Terraform uses to download provider plugins needed for the particular configuration setup.
 .idea
 .terraform
+
+# State files. We don't really need those in the repository.
+*.tfstate
+*.tfstate.backup
